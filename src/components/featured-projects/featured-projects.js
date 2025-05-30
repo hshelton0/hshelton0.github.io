@@ -8,7 +8,7 @@ const FeaturedProjects = () => (
       <div className="project blistabloc">
         <figure className="project__pic">
           <a href="https://www.tiktok.com/@nounish_/video/7346983531702226218" rel="noreferrer" target="_blank">
-            <img src="./images/featured/things/frame.PNG" alt=""/>
+            <img src="./images/featured/things/frame.png" alt=""/>
           </a>
         </figure>
         <figcaption className="project__caption">
