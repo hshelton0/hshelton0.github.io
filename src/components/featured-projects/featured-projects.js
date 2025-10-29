@@ -16,7 +16,7 @@ const FeaturedProjects = () => (
           <div className="project__name">
             <a href="https://newsroom.farmers.com/2017-09-14-Farmers-Insurance-R-Continues-to-Assist-Texas-Communities-Recover-from-Harvey " rel="noreferrer" target="_blank">HONK Crisis Response</a>
           </div>
-          <p>Crowdsourcing flood information during Hurricane Harvey to rescue vehicles before they were totaled due to rising flood waters</p>
+          <p>Crowdsourcing flood maps during Hurricane Harvey to rescue vehicles near rising waters before they were totaled</p>
         </figcaption>
       </div>
 	
