@@ -5,6 +5,21 @@ const FeaturedProjects = () => (
   <section className="section featured-projects">
     <div className="section__title">Fun things I helped bring to life</div>
     <div className="section__content">
+
+	 <div className="project blistabloc">
+        <figure className="project__pic">
+          <a href="https://newsroom.farmers.com/2017-09-14-Farmers-Insurance-R-Continues-to-Assist-Texas-Communities-Recover-from-Harvey" rel="noreferrer" target="_blank">
+            <img src="./images/featured/things/time.png" alt=""/>
+          </a>
+        </figure>
+        <figcaption className="project__caption">
+          <div className="project__name">
+            <a href="https://newsroom.farmers.com/2017-09-14-Farmers-Insurance-R-Continues-to-Assist-Texas-Communities-Recover-from-Harvey " rel="noreferrer" target="_blank">HONK Crisis Response</a>
+          </div>
+          <p>Crowdsourcing flood information during Hurricane Harvey to rescue vehicles before they were totaled due to rising flood waters</p>
+        </figcaption>
+      </div>
+	
       <div className="project blistabloc">
         <figure className="project__pic">
           <a href="https://www.tiktok.com/@nounish_/video/7346983531702226218" rel="noreferrer" target="_blank">
