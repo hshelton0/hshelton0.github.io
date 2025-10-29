@@ -3,13 +3,13 @@ import "./featured-projects.scss"
 
 const FeaturedProjects = () => (
   <section className="section featured-projects">
-    <div className="section__title">Fun things I helped bring to life</div>
+    <div className="section__title">Neat things I helped bring to life</div>
     <div className="section__content">
 
 	 <div className="project blistabloc">
         <figure className="project__pic">
           <a href="https://newsroom.farmers.com/2017-09-14-Farmers-Insurance-R-Continues-to-Assist-Texas-Communities-Recover-from-Harvey" rel="noreferrer" target="_blank">
-            <img src="./images/featured/things/time.png" alt=""/>
+            <img src="./images/featured/things/flood.png" alt=""/>
           </a>
         </figure>
         <figcaption className="project__caption">
